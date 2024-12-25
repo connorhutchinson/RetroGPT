@@ -1,0 +1,6 @@
+@RetroGPTBackend_HostAddress = http://localhost:5177
+
+GET {{RetroGPTBackend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
